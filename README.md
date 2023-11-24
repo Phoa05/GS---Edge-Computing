@@ -30,5 +30,5 @@ Antes de usar o código, realize as seguintes configurações:
 -Os valores são publicados no tópico MQTT configurado e enviados para a plataforma TagoIO.<br>  
 Observação:<br>
 O código utiliza a biblioteca 'ArduinoJson' para formatar o JSON e a biblioteca 'EspMQTTClient' para comunicação MQTT.<br>
-O valor randômico gerado simula os batimentos cardíacos e é enviado a cada 5 segundos.<br>  
+O valor gerado simula os batimentos cardíacos e é enviado a cada 5 segundos.<br>  
 Certifique-se de configurar corretamente as credenciais Wi-Fi, MQTT e TagoIO antes de carregar o código.  
