@@ -32,3 +32,6 @@ Observação:<br>
 O código utiliza a biblioteca 'ArduinoJson' para formatar o JSON e a biblioteca 'EspMQTTClient' para comunicação MQTT.<br>
 O valor gerado simula os batimentos cardíacos e é enviado a cada 5 segundos.<br>  
 Certifique-se de configurar corretamente as credenciais Wi-Fi, MQTT e TagoIO antes de carregar o código.  
+
+<h2>Link do Video Explicativo:</h2>
+https://www.youtube.com/watch?v=wgfXOFGGA-0
